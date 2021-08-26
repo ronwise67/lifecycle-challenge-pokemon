@@ -28,8 +28,15 @@
   margin-left: 18vw;
 }
 
+/* .pokeImg::before {
+  width: 500px;
+} */
+
 .pokeImg {
   width: 500px;
+  background-color: black;
+  -webkit-mask-image: url();
+  mask-image:url()
 }
 
 .pokeName {
